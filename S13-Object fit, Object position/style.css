@@ -1,0 +1,39 @@
+h1{
+    background-color: greenyellow;
+    color: blue;
+    
+}
+
+
+img{
+    width: 300px;
+    height: 300px;
+    border:10px solid aquamarine ;
+    background-color: black;
+}
+#aishwarya{
+    object-fit: fill;
+    object-position: 0px -30px;
+    
+}
+#ravi{
+    object-fit: contain;
+    object-position: 0px -1px;
+   }
+#karthik{
+    object-fit: cover;
+}
+#trisha{
+    object-fit: none;
+    object-position: -400px -300px ;
+} 
+#vikram{
+    object-fit: scale-down;
+    object-position: 0PX -5PX ;
+} 
+
+
+ 
+
+
+
